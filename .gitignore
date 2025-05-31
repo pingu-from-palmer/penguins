@@ -1,2 +1,5 @@
 *.png
 penguin_pics/
+*.log
+temp/
+logs/
